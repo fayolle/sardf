@@ -1,11 +1,8 @@
 # Sardf 
-
 Smoothed versions of the intersection and union Boolean functions for implicits. 
 
 
 ## Reference 
-
-If you find this work useful, please consider citing: 
 ```
 @article{fayolle2006constructive,
   title={Constructive heterogeneous object modeling using signed approximate real distance functions},
